@@ -1,0 +1,51 @@
+﻿@model MensageriaProject.Models.Usuario
+
+<h2>Cadastrar Pessoa</h2>
+
+<!-- Mensagens de sucesso ou erro -->
+@if (TempData["Sucesso"] != null)
+{
+    <div class="alert alert-success">@TempData["Sucesso"]</div>
+}
+@if (TempData["Verifique"] != null)
+{
+    <div class="modal" tabindex="-1">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+                <h5 class="modal-title">@TempData["Verifique"]</h5>
+          </div>
+          <div class="modal-body">
+            <p>Olá Enviamos um Email para você !!</p>
+          </div>
+        </div>
+      </div>
+    </div>
+}
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <p>@error.ErrorMessage</p>
+        }
+    </div>
+}
+
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Email">Email</label>
+        <input asp-for="Email" class="form-control" required />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Senha">Senha</label>
+        <input asp-for="Senha" class="form-control" required />
+        <span asp-validation-for="Senha" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Cadastrar</button>
+</form>
