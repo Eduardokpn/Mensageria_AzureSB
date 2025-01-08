@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\eduar\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MensageriaProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D205D19A-52F4-4B6A-B0C2-A0B9B9272B8A}|MensageriaProject\\MensageriaProject.csproj|c:\\users\\eduar\\onedrive\\\u00E1rea de trabalho\\projetos\\mensageriaproject\\mensageriaproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D205D19A-52F4-4B6A-B0C2-A0B9B9272B8A}|MensageriaProject\\MensageriaProject.csproj|solutionrelative:mensageriaproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D205D19A-52F4-4B6A-B0C2-A0B9B9272B8A}|MensageriaProject\\MensageriaProject.csproj|c:\\users\\eduar\\onedrive\\\u00E1rea de trabalho\\projetos\\mensageriaproject\\mensageriaproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D205D19A-52F4-4B6A-B0C2-A0B9B9272B8A}|MensageriaProject\\MensageriaProject.csproj|solutionrelative:mensageriaproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D205D19A-52F4-4B6A-B0C2-A0B9B9272B8A}|MensageriaProject\\MensageriaProject.csproj|c:\\users\\eduar\\onedrive\\\u00E1rea de trabalho\\projetos\\mensageriaproject\\mensageriaproject\\services\\servicebusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D205D19A-52F4-4B6A-B0C2-A0B9B9272B8A}|MensageriaProject\\MensageriaProject.csproj|solutionrelative:mensageriaproject\\services\\servicebusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{D205D19A-52F4-4B6A-B0C2-A0B9B9272B8A}|MensageriaProject\\MensageriaProject.csproj|solutionrelative:mensageriaproject\\services\\servicebusconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D205D19A-52F4-4B6A-B0C2-A0B9B9272B8A}|MensageriaProject\\MensageriaProject.csproj|c:\\users\\eduar\\onedrive\\\u00E1rea de trabalho\\projetos\\mensageriaproject\\mensageriaproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D205D19A-52F4-4B6A-B0C2-A0B9B9272B8A}|MensageriaProject\\MensageriaProject.csproj|solutionrelative:mensageriaproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D205D19A-52F4-4B6A-B0C2-A0B9B9272B8A}|MensageriaProject\\MensageriaProject.csproj|c:\\users\\eduar\\onedrive\\\u00E1rea de trabalho\\projetos\\mensageriaproject\\mensageriaproject\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D205D19A-52F4-4B6A-B0C2-A0B9B9272B8A}|MensageriaProject\\MensageriaProject.csproj|solutionrelative:mensageriaproject\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -45,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D205D19A-52F4-4B6A-B0C2-A0B9B9272B8A}|MensageriaProject\\MensageriaProject.csproj|c:\\users\\eduar\\onedrive\\\u00E1rea de trabalho\\projetos\\mensageriaproject\\mensageriaproject\\interfaces\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D205D19A-52F4-4B6A-B0C2-A0B9B9272B8A}|MensageriaProject\\MensageriaProject.csproj|solutionrelative:mensageriaproject\\interfaces\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D205D19A-52F4-4B6A-B0C2-A0B9B9272B8A}|MensageriaProject\\MensageriaProject.csproj|c:\\users\\eduar\\onedrive\\\u00E1rea de trabalho\\projetos\\mensageriaproject\\mensageriaproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D205D19A-52F4-4B6A-B0C2-A0B9B9272B8A}|MensageriaProject\\MensageriaProject.csproj|solutionrelative:mensageriaproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D205D19A-52F4-4B6A-B0C2-A0B9B9272B8A}|MensageriaProject\\MensageriaProject.csproj|c:\\users\\eduar\\onedrive\\\u00E1rea de trabalho\\projetos\\mensageriaproject\\mensageriaproject\\views\\usuario\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,20 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MensageriaProject\\MensageriaProject\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "MensageriaProject\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\eduar\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MensageriaProject\\MensageriaProject\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "MensageriaProject\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T16:07:35.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "EmailService.cs",
               "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MensageriaProject\\MensageriaProject\\Services\\EmailService.cs",
               "RelativeDocumentMoniker": "MensageriaProject\\Services\\EmailService.cs",
@@ -119,12 +106,11 @@
               "RelativeToolTip": "MensageriaProject\\Services\\EmailService.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T18:38:11.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T18:38:11.186Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ServiceBusService.cs",
               "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MensageriaProject\\MensageriaProject\\Services\\ServiceBusService.cs",
               "RelativeDocumentMoniker": "MensageriaProject\\Services\\ServiceBusService.cs",
@@ -137,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MensageriaProject\\MensageriaProject\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MensageriaProject\\Controllers\\HomeController.cs",
@@ -145,12 +131,11 @@
               "RelativeToolTip": "MensageriaProject\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T18:48:18.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T18:48:18.41Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IEmailService.cs",
               "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MensageriaProject\\MensageriaProject\\Interfaces\\IEmailService.cs",
               "RelativeDocumentMoniker": "MensageriaProject\\Interfaces\\IEmailService.cs",
@@ -158,25 +143,11 @@
               "RelativeToolTip": "MensageriaProject\\Interfaces\\IEmailService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T19:02:54.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T19:02:54.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ServiceBusConsumer.cs",
-              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MensageriaProject\\MensageriaProject\\Services\\ServiceBusConsumer.cs",
-              "RelativeDocumentMoniker": "MensageriaProject\\Services\\ServiceBusConsumer.cs",
-              "ToolTip": "C:\\Users\\eduar\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MensageriaProject\\MensageriaProject\\Services\\ServiceBusConsumer.cs",
-              "RelativeToolTip": "MensageriaProject\\Services\\ServiceBusConsumer.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T18:24:27.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MensageriaProject\\MensageriaProject\\Program.cs",
               "RelativeDocumentMoniker": "MensageriaProject\\Program.cs",
@@ -189,7 +160,44 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MensageriaProject\\MensageriaProject\\appsettings.json",
+              "RelativeDocumentMoniker": "MensageriaProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MensageriaProject\\MensageriaProject\\appsettings.json",
+              "RelativeToolTip": "MensageriaProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-07T17:15:49.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MensageriaProject\\MensageriaProject\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "MensageriaProject\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MensageriaProject\\MensageriaProject\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "MensageriaProject\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T16:07:35.536Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "ServiceBusConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MensageriaProject\\MensageriaProject\\Services\\ServiceBusConsumer.cs",
+              "RelativeDocumentMoniker": "MensageriaProject\\Services\\ServiceBusConsumer.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MensageriaProject\\MensageriaProject\\Services\\ServiceBusConsumer.cs",
+              "RelativeToolTip": "MensageriaProject\\Services\\ServiceBusConsumer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T18:24:27.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "IUsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MensageriaProject\\MensageriaProject\\Interfaces\\IUsuarioRepository.cs",
               "RelativeDocumentMoniker": "MensageriaProject\\Interfaces\\IUsuarioRepository.cs",
@@ -197,12 +205,11 @@
               "RelativeToolTip": "MensageriaProject\\Interfaces\\IUsuarioRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T16:06:21.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T16:06:21.985Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MensageriaProject\\MensageriaProject\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "MensageriaProject\\Models\\ErrorViewModel.cs",
@@ -214,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MensageriaProject\\MensageriaProject\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "MensageriaProject\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -226,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "UsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MensageriaProject\\MensageriaProject\\Interfaces\\Repository\\UsuarioRepository.cs",
               "RelativeDocumentMoniker": "MensageriaProject\\Interfaces\\Repository\\UsuarioRepository.cs",
@@ -235,18 +242,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T16:06:34.16Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MensageriaProject\\MensageriaProject\\appsettings.json",
-              "RelativeDocumentMoniker": "MensageriaProject\\appsettings.json",
-              "ToolTip": "C:\\Users\\eduar\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\MensageriaProject\\MensageriaProject\\appsettings.json",
-              "RelativeToolTip": "MensageriaProject\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-07T17:15:49.218Z"
             },
             {
               "$type": "Document",

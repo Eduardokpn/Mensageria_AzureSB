@@ -1,0 +1,6 @@
+# Ignore arquivos de configuração sensíveis
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+MensageriaProject/bin/
+MensageriaProject/obj/
