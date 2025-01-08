@@ -55,7 +55,7 @@ namespace MensageriaProject.Controllers
                 var message = JsonConvert.SerializeObject(usuario.Email);
                 await _serviceBusService.EnviarMensagemAsync(message);
                 TempData["Sucesso"] = "Usuário cadastrado com sucesso!";
-                await EnviarEmails();
+                await _serviceBusService.ReceberMensagensAsync();
                 TempData["Verifique"] = "Verifique seu email";
 
                 return RedirectToAction("Cadastrar");

@@ -17,8 +17,7 @@ builder.Services.AddSingleton<ServiceBusClient>(provider =>
 });
 
 // ✅ Registro do ServiceBusService e HostedService
-builder.Services.AddSingleton<ServiceBusService>();
-builder.Services.AddHostedService<ServiceBusConsumer>();
+builder.Services.AddScoped<ServiceBusService>();
 
 // ✅ Registro do Repositório
 builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();

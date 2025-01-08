@@ -1,4 +1,5 @@
 ﻿using Azure.Messaging.ServiceBus;
+using MensageriaProject.Interfaces;
 using Microsoft.Azure.Amqp.Framing;
 
 namespace MensageriaProject.Services
@@ -9,12 +10,14 @@ namespace MensageriaProject.Services
         private readonly ServiceBusClient _client;
         private readonly string _queueName;
         private readonly ServiceBusReceiver _receiver;
-        public ServiceBusService(IConfiguration configuration, ServiceBusClient client) 
+        private readonly IEmailService _emailService;
+        public ServiceBusService(IConfiguration configuration, ServiceBusClient client, IEmailService emailService) 
         {
             _conncetionString = configuration["AzureServiceBus:ConnectionString"];
             _queueName = configuration["AzureServiceBus:QueueName"];
             _client = client;
             _receiver = _client.CreateReceiver(configuration["AzureServiceBus:QueueName"]);
+            _emailService = emailService;
         }
 
         public async Task EnviarMensagemAsync(string menssage)
@@ -45,6 +48,15 @@ namespace MensageriaProject.Services
             foreach (var message in receivedMessages)
             {
                 mensagens.Add(message.Body.ToString());
+
+                foreach (var mensagem in mensagens)
+                {
+                    var email = mensagem; // Ajuste conforme o formato da mensagem
+                    await _emailService.SendEmailResendAsync(email);
+
+                }
+
+
                 await _receiver.CompleteMessageAsync(message); // Marca como processada
             }
 

@@ -13,21 +13,23 @@ public class EmailService : IEmailService
     public EmailService()
     {
         _httpClient = new HttpClient();
-        _httpClient.DefaultRequestHeaders.Add("Authorization", $"Bearer {_apiKey}");
+        
     }
 
     public async Task<bool> SendEmailResendAsync(string to)
     {
+        var cleanedTo = to.Replace("\"", "").Trim();
         var emailData = new
         {
-            from = "eduardokaue277@gmail.com",
-            to = to,
+            from = "Eduardo <onboarding@resend.dev>",
+            to = new[] { cleanedTo },
             subject = "Seu Cadastro foi Realizado",
-            text = "Obrigado por se Cadastrar"
+            html = "<p>Obrigado por se Cadastrar</p>"
         };
 
         var json = JsonConvert.SerializeObject(emailData);
         var content = new StringContent(json, Encoding.UTF8, "application/json");
+        _httpClient.DefaultRequestHeaders.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Bearer", "re_2cm9YNG9_DSJ5PE8JaV6PCYx8Mn9nbcKi");
 
         try
         {

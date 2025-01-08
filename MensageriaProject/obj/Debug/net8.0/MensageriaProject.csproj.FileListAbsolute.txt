@@ -86,3 +86,4 @@ C:\Users\eduar\OneDrive\Área de Trabalho\Projetos\MensageriaProject\MensageriaP
 C:\Users\eduar\OneDrive\Área de Trabalho\Projetos\MensageriaProject\MensageriaProject\bin\Debug\net8.0\Azure.Messaging.ServiceBus.dll
 C:\Users\eduar\OneDrive\Área de Trabalho\Projetos\MensageriaProject\MensageriaProject\bin\Debug\net8.0\Microsoft.Azure.Amqp.dll
 C:\Users\eduar\OneDrive\Área de Trabalho\Projetos\MensageriaProject\MensageriaProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\eduar\OneDrive\Área de Trabalho\Projetos\MensageriaProject\MensageriaProject\obj\Debug\net8.0\MensageriaProject.sourcelink.json
